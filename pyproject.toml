@@ -8,6 +8,9 @@ authors = ["ehab-ahma <ehab24495@gmail.com>"]
 python = "^3.9"
 
 [tool.poetry.dev-dependencies]
+Django = "^3.2.9"
+black = "^21.11b1"
+flake8 = "^4.0.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
